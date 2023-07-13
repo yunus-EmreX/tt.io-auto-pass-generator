@@ -3,7 +3,7 @@ function generate_password(length = 8) {
   var uppercaseLetters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
   var lowercaseLetters = 'abcdefghijklmnopqrstuvwxyz';
   var numbers = '0123456789';
-  var specialCharacters = '!@#$%^&*()';
+  
 
   var password = '';
 
